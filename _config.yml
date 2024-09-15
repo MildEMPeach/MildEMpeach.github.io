@@ -21,7 +21,7 @@ repository               : "MildEMPeach/MildEMpeach.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myavatar.png"
   name             : "温柔的脉冲黄桃"
   pronouns         : # example: "she/her"  
   bio              : "我正在寂寞的超级市场找着生力面。"
